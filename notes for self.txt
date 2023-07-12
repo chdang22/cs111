@@ -1,0 +1,12 @@
+data is organized as follws
+name,console,developer,cumulative sales,first week sales, 
+ref counties hw
+
+using 6 names for LI
+remember to change answer in proposal for format of dat file
+and change the capacity of array and for fucntion
+
+https://w.atwiki.jp/ggirluriage/sp/pages/14.html#ldA-1
+
+12/13/21
+why is the setfill weird for displayPercentSales?? nevermind

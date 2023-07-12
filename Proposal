@@ -1,0 +1,35 @@
+Prompt #1:  Explain the data you have organized in the "input.dat" file. Your explanation should be detailed enough for others to expand your data file with additional data using the same structure.
+
+Data is top otome games determined by total sales. 
+The format is as follows:
+ game name, console/platform, developer,total sales, 1st week sales
+
+ then 6 rows of names per game.
+data types:
+ string,string,string,unsigned,unsigned,unsigned
+
+Prompt #2:  What would the output look like if a user wants to browser your database without any filter or sorting criteria?
+
+It would be listed as is in data file, which is in order of ranking.
+
+Prompt #3: Give two example filter criteria that would be interesting to apply. These are not commitments you are making for the final project.
+
+Filter by company or consoles. If I was a user, I might only like games from a certain company or few companies. I may only own one or a few consoles or handhelds and only want to see games for those consoles.
+
+Prompt #4: Give two example sorting criteria that would be interesting to apply. These are not commitments you are making for the final project.
+
+Sort by 1st week sales, or by alphabetical order of name because the data file is already sorted by ranking of total sales. The alphabetical order would be interesting because some of the games are sequels and seeing how the original game compares to the next game in sales is good to know if the user is interested in that series.
+
+Prompt #5: Describe two statistical analyses that would focus on data within one group. These are not commitments you are making for the final project.
+
+Difference between total sales and first week sales.
+percentage of total sales that first week sales takes up.
+
+
+Prompt #6: Describe two statistical analyses that would require data from multiple groups. These are not commitments you are making for the final project.
+highest 1st week sales(biggest number/highest quantity of sold games in first week)
+most common console in list(highest frequency of appearance in data file)
+
+Prompt #7: How and why is this project personal or interesting to you?
+
+I am a big fan of otome games. They are not very popular in the US and I do not see a lot of data or information about them. It was so exciting looking for the data and being able to find it. As an otome fanatic, I would love a program that tells me the most popular otomes of all time and how well they sold. It would be great to expose others to otomes; so, maybe if someone saw my program they would give otomes a look.

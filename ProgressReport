@@ -1,0 +1,22 @@
+Progress Made:
+completed functions:
+ collect data
+ display all
+ remove 
+ sort
+Help Needed:
+need to update proposal and adjust sort and remove functions to allow user to choose sorting and what to remove. 
+Need to update notes, as some adjustments have been made since proposal.
+display url and source
+need to make sure checklist below is completed
+
+-An analysis function that returns a value based on multiple data members of one struct object. This would be one of the responses you provided for the proposal prompt “Describe two analyses that would focus on data within one group.”
+
+A display function that would call the above analysis function and show the respected values for all struct objects in your array.
+
+An analysis function that returns a value based on multiple struct objects. This would be one of the responses you provided for the proposal prompt “Describe two analyses that would focus on data within multiple groups.”
+
+The “input.dat” file must include all data that you have used to build the initial array of struct objects. Your array must have at least 10 struct objects. 
+
+
+
